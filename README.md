@@ -1,11 +1,5 @@
 ☁️ Microsoft Azure Cloud Computing Project
 
-👨‍💻 Author
-
-Your Name
-
----
-
 📌 Project Overview
 
 This project demonstrates the implementation and deployment of different Microsoft Azure cloud computing services. The project explores Azure Virtual Machines, Azure CLI/Cloud Shell, Azure Container Instances, and Azure Blob Storage for hosting web content.
